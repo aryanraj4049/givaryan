@@ -1,5 +1,5 @@
 import React from 'react'
-import boy from './sign.jpg'
+import boy from './giva.jpg'
 const SIgn_img = () => {
     return (
         <>
