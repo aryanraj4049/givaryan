@@ -102,7 +102,7 @@ const Login = () => {
                                 Submit
                             </Button>
                         </Form>
-                        <p className='mt-3'>Don't Have an Account <span><a href="/">Create Account</a></span></p>
+                        <p className='mt-3'>Don't Have an Account <span><a href="/home">Create Account</a></span></p>
                     </div>
                     <SIgn_img />
                 </section>
