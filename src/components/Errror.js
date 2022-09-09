@@ -10,8 +10,8 @@ const Errror = () => {
     <>
             <div className='container'>
             <div className="error d-flex flex-column justify-content-lg-center align-items-center">
-                <h4>Welcome user first login to use our app</h4>
-                <button className='btn btn-primary' onClick={()=>history("/")}>Redirect Login Page</button>
+                <h4>Welcome user! Create an Account to use our App</h4>
+                <button className='btn btn-primary' onClick={()=>history("/")}>Redirect Signin Page</button>
             </div>
 
         </div>
